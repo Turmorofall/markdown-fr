@@ -1,9 +1,9 @@
 # Tableaux
 
 
-Les tableaux ne font pas partie du coeur de la spec Markdown, mais ils font partie de GFM (GitHub Flavored Markdown) et Markdown Here les supporte.
+Arrays are not a part of the heart of the Markdown spec, but they're part of GFM (GitHub Flavored Markdown) and Markdown Here support it.
 
-Voici un exemple de tableau avec le résultat dessous :
+Here is an exemple of an array  with the result below :
 
     | Les tableaux  | Sont            | Cools |
     | ------------- |:---------------:| -----:|
